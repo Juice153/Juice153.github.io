@@ -1,0 +1,16 @@
+.draggable {
+    width: 200px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+#morecookie {
+    height: 50px;
+}
+
+
+
+body {
+    background-color: LightSeaGreen;
+}
